@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1794149655.69976 "/home/angelbarraza/Documents/Calculo III momento 3/Taller momento 3.tex" "Taller momento 3.pdf" "Taller momento 3" 1794149656.7332 0
+["pdflatex"] 1794310023.25509 "/home/angelbarraza/Documents/Taller calculo/Calculo-taller-momento-final/Taller momento 3.tex" "Taller momento 3.pdf" "Taller momento 3" 1794310024.19309 0
   "/etc/texmf/web2c/texmf.cnf" 1784293356.74469 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/angelbarraza/Documents/Calculo III momento 3/Taller momento 3.tex" 1794149655.42014 46969 4d98ee6e1f57140537e08c625cf49cd6 ""
+  "/home/angelbarraza/Documents/Taller calculo/Calculo-taller-momento-final/Taller momento 3.tex" 1794310022.90127 47032 5d45b2a3b67c75329e2afdbfdaac8e74 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -113,10 +113,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1769369718 41603 27f93b3067076450172040dcd57ca8b3 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1784293385 5541477 3118940318599480888143717dd32d64 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1784293540 3640210 312e9ca33f0b8f678c7460ec4e28c445 ""
-  "Logo_UCC_vertical.png" 1786113315.73215 12884 651926f3efe443bdcac586b308d6a88f ""
-  "Taller momento 3.aux" 1794149656.63375 2011 19228bb24e4e53aa3abc18b86ea932bd "pdflatex"
-  "Taller momento 3.tex" 1794149655.42014 46969 4d98ee6e1f57140537e08c625cf49cd6 ""
-  "Taller momento 3.toc" 1794149656.63675 791 156609a2e12c85b11cb4d743ef19c157 "pdflatex"
+  "Logo_UCC_vertical.png" 1794150912.2701 12884 651926f3efe443bdcac586b308d6a88f ""
+  "Taller momento 3.aux" 1794310024.0913 2011 19228bb24e4e53aa3abc18b86ea932bd "pdflatex"
+  "Taller momento 3.tex" 1794310022.90127 47032 5d45b2a3b67c75329e2afdbfdaac8e74 ""
+  "Taller momento 3.toc" 1794310024.0943 791 156609a2e12c85b11cb4d743ef19c157 "pdflatex"
   (generated)
   "Taller momento 3.aux"
   "Taller momento 3.log"
